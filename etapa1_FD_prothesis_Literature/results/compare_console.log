@@ -1,0 +1,19 @@
+12 agentes x 4 fases x 20 s
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 6 workers.
+                   agente                    tempoMedio_s    fasesCompletas     v_ms      RMSE_graus     corr      simetria_pct     jerk     plausivel
+    _____________________________________    ____________    ______________    _______    __________    _______    ____________    ______    _________
+
+    "agent_walk_chunk129_lr1e-4_ckpt.mat"           20             4           0.93774      11.328      0.69693       11.441       9.3618        0    
+    "agent_walk_chunk102_ckpt.mat"                  20             4           0.63215      10.821      0.67516       29.245        11.79        0    
+    "agent_walk_chunk150_lr1e-4_ckpt.mat"           20             4           0.72613      11.563      0.63194       26.252       14.802        0    
+    "agent_walk_chunk135_lr1e-4_ckpt.mat"           20             4             0.715      11.488      0.60859       29.713       9.7266        0    
+    "agent_walk_chunk147_lr1e-4_ckpt.mat"           20             4           0.66754       11.04      0.55258       31.639       10.699        0    
+    "agent_walk_chunk117_lr1e-4_ckpt.mat"       15.548             3           0.86067      13.169      0.58502       27.505       13.685        0    
+    "agent_walk_chunk144_lr1e-4_ckpt.mat"       15.203             3           0.85794      13.147      0.51863       22.461       12.384        0    
+    "agent_walk_chunk132_lr1e-4_ckpt.mat"        15.19             3           0.90558      12.873      0.57339       33.437       13.934        0    
+    "agent_walk_chunk141_lr1e-4_ckpt.mat"        15.18             3           0.99696      12.312      0.59647       30.918       15.121        0    
+    "agent_walk_chunk123_lr1e-4_ckpt.mat"       15.173             3           0.85981       12.86      0.56212       36.987       14.236        0    
+    "agent_walk_chunk111_ckpt.mat"              11.683             2            0.9223      13.102      0.62651        25.37       9.2342        0    
+    "agent_walk_chunk138_lr1e-4_ckpt.mat"       11.187             0           0.65951      14.379      0.50035       38.953       8.4606        0    
+

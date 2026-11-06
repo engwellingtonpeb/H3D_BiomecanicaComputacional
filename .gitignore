@@ -1,0 +1,15 @@
+# dataset bruto (baixar de figshare 10.6084/m9.figshare.5722711); proc/ e WBDSinfo.csv ficam
+data/wbds/WBDSascii.zip
+data/wbds/mkr/
+
+# checkpoint reescrito a cada bloco pelo treino em andamento
+etapa2_FD_prothesis_Dataset/agents/sac_checkpoint.mat
+
+# temporarios
+*.asv
+opensim.log
+*.aux
+*.toc
+*.out
+*.synctex.gz
+etapa1_FD_prothesis_Literature/docs/relatorio_tecnico.log

@@ -1,0 +1,12 @@
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\src\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+quadro 60/600
+quadro 120/600
+quadro 180/600
+quadro 240/600
+quadro 300/600
+quadro 360/600
+quadro 420/600
+quadro 480/600
+quadro 540/600
+quadro 600/600
+video: C:\Users\engwe\Desktop\RL_OSim\src\..\results\cmp_chunk129_lr1e-4_ckpt_p00_opensim.mp4 (600 quadros)

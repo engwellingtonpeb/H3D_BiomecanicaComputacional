@@ -1,0 +1,218 @@
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 4 workers.
+[01:27:30] bloco 1/150 | assist=0.00 | R med=64.4 max=182.4 | passos med=102 max=300 | 138 s
+[01:29:37] bloco 2/150 | assist=0.00 | R med=60.8 max=134.7 | passos med=97 max=220 | 126 s
+[01:32:06] bloco 3/150 | assist=0.00 | R med=71.0 max=179.9 | passos med=113 max=300 | 149 s
+   AVAL (sem assistencia): 1.91 s em pe | v=-0.05 m/s | RMSE=19.6 graus | corr=0.27 | simetria=61% | jerk=13.66
+[01:34:27] bloco 4/150 | assist=0.00 | R med=61.0 max=118.7 | passos med=96 max=202 | 124 s
+[01:37:06] bloco 5/150 | assist=0.00 | R med=76.3 max=147.1 | passos med=123 max=256 | 158 s
+[01:39:45] bloco 6/150 | assist=0.00 | R med=82.7 max=182.8 | passos med=128 max=300 | 159 s
+   AVAL (sem assistencia): 2.40 s em pe | v=-0.09 m/s | RMSE=12.9 graus | corr=0.46 | simetria=105% | jerk=13.38
+Retomando do bloco 7
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 4 workers.
+[01:43:57] bloco 7/150 | assist=0.00 | R med=81.1 max=153.6 | passos med=113 max=232 | 163 s
+[01:46:10] bloco 8/150 | assist=0.00 | R med=69.0 max=148.6 | passos med=95 max=226 | 132 s
+[01:48:18] bloco 9/150 | assist=0.00 | R med=69.5 max=154.6 | passos med=100 max=239 | 128 s
+   AVAL (sem assistencia): 1.47 s em pe | v=0.85 m/s | RMSE=17.9 graus | corr=0.25 | simetria=50% | jerk=15.02
+[01:50:51] bloco 10/150 | assist=0.00 | R med=84.9 max=210.6 | passos med=112 max=300 | 139 s
+[01:53:18] bloco 11/150 | assist=0.00 | R med=79.7 max=150.4 | passos med=110 max=222 | 146 s
+[01:55:53] bloco 12/150 | assist=0.00 | R med=80.7 max=193.8 | passos med=110 max=284 | 154 s
+   AVAL (sem assistencia): 1.88 s em pe | v=0.78 m/s | RMSE=17.5 graus | corr=0.33 | simetria=16% | jerk=12.19
+[01:58:52] bloco 13/150 | assist=0.00 | R med=91.1 max=185.3 | passos med=126 max=281 | 161 s
+[02:01:09] bloco 14/150 | assist=0.00 | R med=82.3 max=193.8 | passos med=111 max=282 | 137 s
+[02:03:59] bloco 15/150 | assist=0.00 | R med=99.4 max=227.8 | passos med=132 max=288 | 169 s
+   AVAL (sem assistencia): 2.04 s em pe | v=-0.02 m/s | RMSE=14.3 graus | corr=0.31 | simetria=60% | jerk=13.80
+[02:07:37] bloco 16/150 | assist=0.00 | R med=131.6 max=211.9 | passos med=188 max=300 | 203 s
+[02:10:36] bloco 17/150 | assist=0.00 | R med=110.0 max=205.3 | passos med=154 max=300 | 178 s
+[02:13:34] bloco 18/150 | assist=0.00 | R med=105.2 max=225.0 | passos med=141 max=300 | 178 s
+   AVAL (sem assistencia): 3.60 s em pe | v=0.73 m/s | RMSE=14.3 graus | corr=0.54 | simetria=53% | jerk=14.85
+[02:17:12] bloco 19/150 | assist=0.00 | R med=122.7 max=253.4 | passos med=164 max=300 | 188 s
+[02:20:41] bloco 20/150 | assist=0.00 | R med=123.4 max=209.2 | passos med=186 max=300 | 208 s
+[02:24:05] bloco 21/150 | assist=0.00 | R med=129.8 max=219.7 | passos med=181 max=300 | 204 s
+   AVAL (sem assistencia): 2.57 s em pe | v=-0.01 m/s | RMSE=16.2 graus | corr=0.26 | simetria=62% | jerk=11.75
+[02:27:28] bloco 22/150 | assist=0.00 | R med=122.5 max=241.5 | passos med=171 max=300 | 185 s
+[02:31:01] bloco 23/150 | assist=0.00 | R med=132.9 max=232.5 | passos med=182 max=300 | 213 s
+[02:34:33] bloco 24/150 | assist=0.00 | R med=138.6 max=233.4 | passos med=186 max=300 | 212 s
+   AVAL (sem assistencia): 4.12 s em pe | v=0.03 m/s | RMSE=14.2 graus | corr=0.33 | simetria=60% | jerk=9.33
+[02:39:12] bloco 25/150 | assist=0.00 | R med=172.5 max=238.0 | passos med=238 max=300 | 253 s
+[02:43:05] bloco 26/150 | assist=0.00 | R med=146.2 max=235.9 | passos med=198 max=300 | 233 s
+[02:47:13] bloco 27/150 | assist=0.00 | R med=152.9 max=223.3 | passos med=223 max=300 | 247 s
+   AVAL (sem assistencia): 5.00 s em pe | v=0.39 m/s | RMSE=15.2 graus | corr=0.47 | simetria=47% | jerk=8.78
+[02:52:14] bloco 28/150 | assist=0.00 | R med=171.9 max=244.0 | passos med=240 max=300 | 265 s
+[02:56:25] bloco 29/150 | assist=0.00 | R med=158.8 max=229.6 | passos med=230 max=300 | 250 s
+[03:00:46] bloco 30/150 | assist=0.00 | R med=179.6 max=241.7 | passos med=246 max=300 | 261 s
+   AVAL (sem assistencia): 1.94 s em pe | v=0.76 m/s | RMSE=16.9 graus | corr=0.42 | simetria=20% | jerk=10.73
+[03:05:43] bloco 31/150 | assist=0.00 | R med=185.1 max=254.8 | passos med=245 max=300 | 280 s
+[03:09:57] bloco 32/150 | assist=0.00 | R med=157.9 max=255.2 | passos med=222 max=300 | 253 s
+[03:14:38] bloco 33/150 | assist=0.00 | R med=182.9 max=280.5 | passos med=233 max=300 | 281 s
+   AVAL (sem assistencia): 4.81 s em pe | v=0.28 m/s | RMSE=14.3 graus | corr=0.45 | simetria=31% | jerk=6.74
+[03:20:05] bloco 34/150 | assist=0.00 | R med=189.9 max=256.0 | passos med=253 max=300 | 292 s
+[03:25:09] bloco 35/150 | assist=0.00 | R med=215.3 max=260.4 | passos med=274 max=300 | 304 s
+[03:30:11] bloco 36/150 | assist=0.00 | R med=218.2 max=278.6 | passos med=268 max=300 | 302 s
+   AVAL (sem assistencia): 3.54 s em pe | v=-0.01 m/s | RMSE=13.9 graus | corr=0.43 | simetria=35% | jerk=9.38
+[03:35:30] bloco 37/150 | assist=0.00 | R med=212.6 max=280.5 | passos med=273 max=300 | 297 s
+[03:40:32] bloco 38/150 | assist=0.00 | R med=199.8 max=253.0 | passos med=260 max=300 | 302 s
+[03:45:36] bloco 39/150 | assist=0.00 | R med=219.1 max=269.1 | passos med=276 max=300 | 303 s
+   AVAL (sem assistencia): 3.05 s em pe | v=0.03 m/s | RMSE=13.1 graus | corr=0.48 | simetria=66% | jerk=19.69
+[03:50:55] bloco 40/150 | assist=0.00 | R med=202.8 max=261.5 | passos med=262 max=300 | 297 s
+[03:55:41] bloco 41/150 | assist=0.00 | R med=197.8 max=267.3 | passos med=256 max=300 | 286 s
+[04:00:40] bloco 42/150 | assist=0.00 | R med=217.8 max=280.3 | passos med=268 max=300 | 299 s
+   AVAL (sem assistencia): 3.67 s em pe | v=0.20 m/s | RMSE=13.9 graus | corr=0.37 | simetria=33% | jerk=16.20
+[04:05:50] bloco 43/150 | assist=0.00 | R med=204.4 max=279.9 | passos med=257 max=300 | 286 s
+[04:10:54] bloco 44/150 | assist=0.00 | R med=214.1 max=284.9 | passos med=265 max=300 | 303 s
+[04:16:12] bloco 45/150 | assist=0.00 | R med=224.3 max=277.7 | passos med=273 max=300 | 318 s
+   AVAL (sem assistencia): 3.81 s em pe | v=0.55 m/s | RMSE=20.6 graus | corr=0.28 | simetria=32% | jerk=9.12
+[04:21:58] bloco 46/150 | assist=0.00 | R med=214.9 max=280.7 | passos med=266 max=300 | 309 s
+[04:27:17] bloco 47/150 | assist=0.00 | R med=228.2 max=279.2 | passos med=275 max=300 | 319 s
+[04:32:23] bloco 48/150 | assist=0.00 | R med=221.2 max=282.0 | passos med=273 max=300 | 305 s
+   AVAL (sem assistencia): 2.43 s em pe | v=0.55 m/s | RMSE=17.2 graus | corr=0.43 | simetria=12% | jerk=15.18
+[04:37:47] bloco 49/150 | assist=0.00 | R med=214.2 max=288.1 | passos med=262 max=300 | 303 s
+[04:43:12] bloco 50/150 | assist=0.00 | R med=226.0 max=278.0 | passos med=278 max=300 | 325 s
+[04:48:52] bloco 51/150 | assist=0.00 | R med=219.9 max=267.5 | passos med=272 max=300 | 340 s
+   AVAL (sem assistencia): 1.87 s em pe | v=0.73 m/s | RMSE=16.1 graus | corr=0.37 | simetria=48% | jerk=28.34
+[04:54:42] bloco 52/150 | assist=0.00 | R med=231.9 max=277.5 | passos med=285 max=300 | 332 s
+[05:00:18] bloco 53/150 | assist=0.00 | R med=240.2 max=289.0 | passos med=291 max=300 | 336 s
+[05:05:37] bloco 54/150 | assist=0.00 | R med=225.7 max=283.2 | passos med=272 max=300 | 319 s
+   AVAL (sem assistencia): 5.00 s em pe | v=0.36 m/s | RMSE=12.9 graus | corr=0.46 | simetria=21% | jerk=12.04
+[05:11:10] bloco 55/150 | assist=0.00 | R med=209.7 max=286.5 | passos med=252 max=300 | 299 s
+[05:16:28] bloco 56/150 | assist=0.00 | R med=216.7 max=281.0 | passos med=261 max=300 | 318 s
+[05:22:10] bloco 57/150 | assist=0.00 | R med=237.8 max=290.4 | passos med=281 max=300 | 342 s
+   AVAL (sem assistencia): 5.00 s em pe | v=0.19 m/s | RMSE=13.0 graus | corr=0.44 | simetria=49% | jerk=9.63
+[05:27:49] bloco 58/150 | assist=0.00 | R med=207.0 max=291.5 | passos med=261 max=300 | 306 s
+[05:33:31] bloco 59/150 | assist=0.00 | R med=220.2 max=261.9 | passos med=279 max=300 | 342 s
+[05:39:17] bloco 60/150 | assist=0.00 | R med=224.9 max=282.6 | passos med=272 max=300 | 346 s
+   AVAL (sem assistencia): 1.84 s em pe | v=0.74 m/s | RMSE=17.8 graus | corr=0.28 | simetria=27% | jerk=21.78
+[05:43:34] bloco 61/150 | assist=0.00 | R med=151.0 max=258.1 | passos med=195 max=300 | 240 s
+[05:47:52] bloco 62/150 | assist=0.00 | R med=154.1 max=266.5 | passos med=201 max=300 | 257 s
+[05:53:30] bloco 63/150 | assist=0.00 | R med=224.1 max=276.8 | passos med=266 max=300 | 338 s
+   AVAL (sem assistencia): 4.24 s em pe | v=0.63 m/s | RMSE=14.4 graus | corr=0.49 | simetria=37% | jerk=13.58
+[05:59:46] bloco 64/150 | assist=0.00 | R med=207.5 max=270.5 | passos med=264 max=300 | 341 s
+[06:05:35] bloco 65/150 | assist=0.00 | R med=221.9 max=265.6 | passos med=283 max=300 | 349 s
+[06:11:32] bloco 66/150 | assist=0.00 | R med=221.9 max=269.3 | passos med=278 max=300 | 356 s
+   AVAL (sem assistencia): 5.00 s em pe | v=0.36 m/s | RMSE=13.0 graus | corr=0.53 | simetria=51% | jerk=10.04
+[06:17:53] bloco 67/150 | assist=0.00 | R med=228.4 max=279.2 | passos med=273 max=300 | 346 s
+[06:23:59] bloco 68/150 | assist=0.00 | R med=242.5 max=285.9 | passos med=281 max=300 | 366 s
+[06:29:28] bloco 69/150 | assist=0.00 | R med=212.9 max=264.0 | passos med=268 max=300 | 329 s
+   AVAL (sem assistencia): 2.27 s em pe | v=0.73 m/s | RMSE=18.2 graus | corr=0.36 | simetria=40% | jerk=15.45
+[06:35:42] bloco 70/150 | assist=0.00 | R med=220.0 max=283.6 | passos med=266 max=300 | 353 s
+[06:41:29] bloco 71/150 | assist=0.00 | R med=216.4 max=265.9 | passos med=271 max=300 | 347 s
+[06:47:31] bloco 72/150 | assist=0.00 | R med=207.8 max=263.8 | passos med=264 max=300 | 362 s
+   AVAL (sem assistencia): 5.00 s em pe | v=0.62 m/s | RMSE=13.6 graus | corr=0.49 | simetria=58% | jerk=13.02
+[06:54:34] bloco 73/150 | assist=0.00 | R med=238.7 max=280.6 | passos med=285 max=300 | 382 s
+[07:00:49] bloco 74/150 | assist=0.00 | R med=228.3 max=279.0 | passos med=282 max=300 | 375 s
+[07:07:13] bloco 75/150 | assist=0.00 | R med=226.6 max=280.0 | passos med=285 max=300 | 383 s
+   AVAL (sem assistencia): 1.39 s em pe | v=1.00 m/s | RMSE=16.5 graus | corr=0.49 | simetria=36% | jerk=18.22
+[07:13:35] bloco 76/150 | assist=0.00 | R med=230.0 max=287.4 | passos med=278 max=300 | 368 s
+[07:19:25] bloco 77/150 | assist=0.00 | R med=220.0 max=284.8 | passos med=262 max=300 | 350 s
+[07:25:00] bloco 78/150 | assist=0.00 | R med=203.2 max=276.0 | passos med=246 max=300 | 335 s
+   AVAL (sem assistencia): 5.00 s em pe | v=0.48 m/s | RMSE=13.0 graus | corr=0.54 | simetria=30% | jerk=17.54
+[07:32:05] bloco 79/150 | assist=0.00 | R med=229.4 max=277.2 | passos med=279 max=300 | 387 s
+[07:38:31] bloco 80/150 | assist=0.00 | R med=240.7 max=286.4 | passos med=281 max=300 | 385 s
+[07:44:54] bloco 81/150 | assist=0.00 | R med=214.7 max=276.5 | passos med=256 max=300 | 383 s
+   AVAL (sem assistencia): 2.09 s em pe | v=0.73 m/s | RMSE=15.9 graus | corr=0.28 | simetria=31% | jerk=11.31
+[07:51:33] bloco 82/150 | assist=0.00 | R med=223.8 max=279.8 | passos med=269 max=300 | 383 s
+[07:57:52] bloco 83/150 | assist=0.00 | R med=221.7 max=284.9 | passos med=276 max=300 | 379 s
+[08:04:29] bloco 84/150 | assist=0.00 | R med=223.9 max=278.9 | passos med=279 max=300 | 396 s
+   AVAL (sem assistencia): 5.00 s em pe | v=0.29 m/s | RMSE=14.1 graus | corr=0.45 | simetria=51% | jerk=8.67
+[08:11:50] bloco 85/150 | assist=0.00 | R med=224.3 max=273.9 | passos med=282 max=300 | 407 s
+[08:18:26] bloco 86/150 | assist=0.00 | R med=218.7 max=288.0 | passos med=262 max=300 | 395 s
+[08:25:08] bloco 87/150 | assist=0.00 | R med=228.8 max=288.5 | passos med=269 max=300 | 402 s
+   AVAL (sem assistencia): 5.00 s em pe | v=0.40 m/s | RMSE=13.6 graus | corr=0.52 | simetria=58% | jerk=6.06
+[08:32:30] bloco 88/150 | assist=0.00 | R med=232.4 max=285.8 | passos med=276 max=300 | 407 s
+[08:39:37] bloco 89/150 | assist=0.00 | R med=236.7 max=285.4 | passos med=278 max=300 | 427 s
+[08:46:40] bloco 90/150 | assist=0.00 | R med=221.9 max=294.0 | passos med=264 max=300 | 422 s
+   AVAL (sem assistencia): 5.00 s em pe | v=0.54 m/s | RMSE=11.1 graus | corr=0.58 | simetria=43% | jerk=8.74
+[08:54:25] bloco 91/150 | assist=0.00 | R med=241.7 max=288.3 | passos med=284 max=300 | 425 s
+[09:01:38] bloco 92/150 | assist=0.00 | R med=235.5 max=280.7 | passos med=284 max=300 | 433 s
+[09:08:45] bloco 93/150 | assist=0.00 | R med=240.5 max=289.5 | passos med=283 max=300 | 428 s
+   AVAL (sem assistencia): 5.00 s em pe | v=0.65 m/s | RMSE=12.3 graus | corr=0.55 | simetria=38% | jerk=8.35
+=== 2026-11-04 09:09 reinicio: episodios 6 s, wSpeed 0.45 kSpeed 2.5, aval 10 s ===
+Retomando do bloco 94
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 4 workers.
+[09:16:18] bloco 94/150 | assist=0.00 | R med=193.4 max=635.2 | passos med=218 max=600 | 308 s
+[09:20:28] bloco 95/150 | assist=0.00 | R med=148.1 max=353.0 | passos med=183 max=517 | 250 s
+[09:25:40] bloco 96/150 | assist=0.00 | R med=171.6 max=317.5 | passos med=222 max=416 | 311 s
+   AVAL (sem assistencia): 2.74 s em pe | v=0.60 m/s | RMSE=16.0 graus | corr=0.42 | simetria=36% | jerk=17.27
+[09:34:12] bloco 97/150 | assist=0.00 | R med=277.4 max=551.6 | passos med=354 max=600 | 485 s
+[09:42:19] bloco 98/150 | assist=0.00 | R med=297.9 max=523.8 | passos med=375 max=600 | 486 s
+[09:49:20] bloco 99/150 | assist=0.00 | R med=297.0 max=505.3 | passos med=349 max=600 | 421 s
+   AVAL (sem assistencia): 1.43 s em pe | v=1.05 m/s | RMSE=15.5 graus | corr=0.49 | simetria=30% | jerk=11.06
+[10:00:15] bloco 100/150 | assist=0.00 | R med=411.4 max=560.7 | passos med=502 max=600 | 643 s
+[10:11:30] bloco 101/150 | assist=0.00 | R med=445.0 max=591.7 | passos med=547 max=600 | 674 s
+[10:22:36] bloco 102/150 | assist=0.00 | R med=430.0 max=565.0 | passos med=505 max=600 | 666 s
+   AVAL (sem assistencia): 10.00 s em pe | v=0.63 m/s | RMSE=11.3 graus | corr=0.63 | simetria=31% | jerk=11.05
+[10:33:22] bloco 103/150 | assist=0.00 | R med=402.5 max=578.1 | passos med=446 max=600 | 566 s
+[10:45:28] bloco 104/150 | assist=0.00 | R med=525.6 max=601.3 | passos med=580 max=600 | 727 s
+[10:57:11] bloco 105/150 | assist=0.00 | R med=464.4 max=608.1 | passos med=526 max=600 | 703 s
+   AVAL (sem assistencia): 6.96 s em pe | v=0.77 m/s | RMSE=14.6 graus | corr=0.52 | simetria=25% | jerk=10.53
+[11:08:48] bloco 106/150 | assist=0.00 | R med=460.1 max=623.1 | passos med=527 max=600 | 642 s
+[11:20:07] bloco 107/150 | assist=0.00 | R med=464.4 max=635.0 | passos med=517 max=600 | 678 s
+[11:31:13] bloco 108/150 | assist=0.00 | R med=425.2 max=614.3 | passos med=500 max=600 | 666 s
+   AVAL (sem assistencia): 6.40 s em pe | v=0.24 m/s | RMSE=13.6 graus | corr=0.50 | simetria=62% | jerk=8.56
+[11:43:59] bloco 109/150 | assist=0.00 | R med=467.1 max=574.3 | passos med=549 max=600 | 724 s
+[11:54:27] bloco 110/150 | assist=0.00 | R med=433.5 max=589.1 | passos med=485 max=600 | 628 s
+[12:04:31] bloco 111/150 | assist=0.00 | R med=414.3 max=634.0 | passos med=461 max=600 | 604 s
+   AVAL (sem assistencia): 10.00 s em pe | v=0.84 m/s | RMSE=11.7 graus | corr=0.67 | simetria=23% | jerk=9.08
+[12:15:31] bloco 112/150 | assist=0.00 | R med=353.6 max=578.8 | passos med=419 max=600 | 579 s
+[12:24:24] bloco 113/150 | assist=0.00 | R med=385.1 max=639.8 | passos med=408 max=600 | 532 s
+[12:33:52] bloco 114/150 | assist=0.00 | R med=389.5 max=587.2 | passos med=454 max=600 | 568 s
+   AVAL (sem assistencia): 2.04 s em pe | v=1.12 m/s | RMSE=14.8 graus | corr=0.57 | simetria=18% | jerk=16.93
+=== 2026-11-04 12:34 reinicio a partir do agente do bloco 111, lr 1e-4 ===
+Retomando do bloco 112
+Taxa de aprendizado = 0.0001
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 4 workers.
+[12:43:07] bloco 112/150 | assist=0.00 | R med=292.6 max=589.6 | passos med=321 max=600 | 422 s
+[12:51:29] bloco 113/150 | assist=0.00 | R med=327.7 max=589.8 | passos med=377 max=600 | 502 s
+[12:59:39] bloco 114/150 | assist=0.00 | R med=321.0 max=591.9 | passos med=378 max=600 | 490 s
+   AVAL (sem assistencia): 6.29 s em pe | v=0.27 m/s | RMSE=14.4 graus | corr=0.36 | simetria=34% | jerk=9.33
+[13:07:53] bloco 115/150 | assist=0.00 | R med=288.2 max=534.1 | passos med=346 max=600 | 445 s
+[13:17:26] bloco 116/150 | assist=0.00 | R med=402.7 max=621.7 | passos med=452 max=600 | 573 s
+[13:26:39] bloco 117/150 | assist=0.00 | R med=392.2 max=634.7 | passos med=407 max=600 | 553 s
+   AVAL (sem assistencia): 10.00 s em pe | v=0.74 m/s | RMSE=12.2 graus | corr=0.56 | simetria=33% | jerk=14.15
+[13:39:22] bloco 118/150 | assist=0.00 | R med=448.2 max=604.7 | passos med=497 max=600 | 682 s
+[13:49:46] bloco 119/150 | assist=0.00 | R med=440.0 max=638.7 | passos med=479 max=600 | 624 s
+[14:01:22] bloco 120/150 | assist=0.00 | R med=469.5 max=612.0 | passos med=506 max=600 | 695 s
+   AVAL (sem assistencia): 2.01 s em pe | v=0.73 m/s | RMSE=17.8 graus | corr=0.28 | simetria=38% | jerk=13.19
+[14:13:07] bloco 121/150 | assist=0.00 | R med=452.2 max=597.3 | passos med=508 max=600 | 687 s
+[14:24:50] bloco 122/150 | assist=0.00 | R med=481.8 max=634.2 | passos med=513 max=600 | 703 s
+[14:36:58] bloco 123/150 | assist=0.00 | R med=503.0 max=648.5 | passos med=535 max=600 | 727 s
+   AVAL (sem assistencia): 10.00 s em pe | v=0.71 m/s | RMSE=11.8 graus | corr=0.57 | simetria=38% | jerk=9.73
+[14:48:12] bloco 124/150 | assist=0.00 | R med=435.4 max=635.5 | passos med=455 max=600 | 593 s
+[14:58:26] bloco 125/150 | assist=0.00 | R med=433.9 max=614.0 | passos med=477 max=600 | 614 s
+[15:10:07] bloco 126/150 | assist=0.00 | R med=356.2 max=474.9 | passos med=478 max=600 | 701 s
+   AVAL (sem assistencia): 5.68 s em pe | v=0.26 m/s | RMSE=13.4 graus | corr=0.40 | simetria=33% | jerk=10.36
+[15:23:12] bloco 127/150 | assist=0.00 | R med=516.3 max=639.6 | passos med=577 max=600 | 743 s
+[15:35:33] bloco 128/150 | assist=0.00 | R med=565.9 max=655.2 | passos med=570 max=600 | 740 s
+[15:48:44] bloco 129/150 | assist=0.00 | R med=565.6 max=649.0 | passos med=580 max=600 | 791 s
+   AVAL (sem assistencia): 10.00 s em pe | v=0.91 m/s | RMSE=11.3 graus | corr=0.67 | simetria=14% | jerk=10.08
+[16:01:24] bloco 130/150 | assist=0.00 | R med=487.6 max=640.9 | passos med=491 max=600 | 679 s
+[16:15:18] bloco 131/150 | assist=0.00 | R med=591.7 max=646.9 | passos med=600 max=600 | 834 s
+[16:29:06] bloco 132/150 | assist=0.00 | R med=546.4 max=627.6 | passos med=574 max=600 | 828 s
+   AVAL (sem assistencia): 10.00 s em pe | v=0.76 m/s | RMSE=11.8 graus | corr=0.59 | simetria=31% | jerk=8.94
+[16:43:27] bloco 133/150 | assist=0.00 | R med=525.5 max=633.4 | passos med=543 max=600 | 779 s
+[16:55:44] bloco 134/150 | assist=0.00 | R med=447.5 max=619.8 | passos med=492 max=600 | 737 s
+[17:07:47] bloco 135/150 | assist=0.00 | R med=430.3 max=594.0 | passos med=479 max=600 | 723 s
+   AVAL (sem assistencia): 10.00 s em pe | v=0.71 m/s | RMSE=11.8 graus | corr=0.58 | simetria=32% | jerk=9.48
+[17:20:46] bloco 136/150 | assist=0.00 | R med=434.5 max=598.0 | passos med=478 max=600 | 695 s
+[17:33:38] bloco 137/150 | assist=0.00 | R med=486.9 max=645.7 | passos med=522 max=600 | 772 s
+[17:47:24] bloco 138/150 | assist=0.00 | R med=471.6 max=610.9 | passos med=503 max=600 | 826 s
+   AVAL (sem assistencia): 10.00 s em pe | v=0.66 m/s | RMSE=11.7 graus | corr=0.57 | simetria=38% | jerk=8.28
+[18:08:31] bloco 139/150 | assist=0.00 | R med=462.0 max=629.3 | passos med=489 max=600 | 1147 s
+[18:28:20] bloco 140/150 | assist=0.00 | R med=546.3 max=625.0 | passos med=570 max=600 | 1188 s
+[18:43:47] bloco 141/150 | assist=0.00 | R med=516.1 max=650.1 | passos med=527 max=600 | 927 s
+   AVAL (sem assistencia): 10.00 s em pe | v=0.89 m/s | RMSE=11.7 graus | corr=0.61 | simetria=31% | jerk=8.51
+[18:59:04] bloco 142/150 | assist=0.00 | R med=521.7 max=648.0 | passos med=530 max=600 | 829 s
+[19:13:06] bloco 143/150 | assist=0.00 | R med=572.7 max=631.3 | passos med=579 max=600 | 841 s
+[19:26:46] bloco 144/150 | assist=0.00 | R med=571.8 max=663.4 | passos med=568 max=600 | 820 s
+   AVAL (sem assistencia): 10.00 s em pe | v=0.72 m/s | RMSE=12.1 graus | corr=0.53 | simetria=27% | jerk=10.58
+[19:40:23] bloco 145/150 | assist=0.00 | R med=473.8 max=640.1 | passos med=486 max=600 | 738 s
+[19:54:05] bloco 146/150 | assist=0.00 | R med=512.1 max=632.4 | passos med=526 max=600 | 821 s
+[20:09:14] bloco 147/150 | assist=0.00 | R med=533.1 max=629.7 | passos med=570 max=600 | 909 s
+   AVAL (sem assistencia): 10.00 s em pe | v=0.68 m/s | RMSE=11.1 graus | corr=0.55 | simetria=35% | jerk=12.27
+[20:26:50] bloco 148/150 | assist=0.00 | R med=509.7 max=636.2 | passos med=531 max=600 | 972 s
+[20:41:03] bloco 149/150 | assist=0.00 | R med=501.8 max=650.4 | passos med=502 max=600 | 853 s
+[20:56:03] bloco 150/150 | assist=0.00 | R med=524.1 max=618.0 | passos med=552 max=600 | 900 s
+   AVAL (sem assistencia): 10.00 s em pe | v=0.71 m/s | RMSE=11.9 graus | corr=0.59 | simetria=29% | jerk=14.18

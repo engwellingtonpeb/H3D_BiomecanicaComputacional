@@ -1,0 +1,81 @@
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 4 workers.
+[00:02:03] bloco 1/60 | assist=1.00 | R med=95.6 max=116.3 | passos med=300 max=300 | 258 s
+[00:17:26] bloco 2/60 | assist=1.00 | R med=95.9 max=117.3 | passos med=300 max=300 | 922 s
+Retomando do bloco 3
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 4 workers.
+[00:22:43] bloco 3/60 | assist=1.00 | R med=90.5 max=115.0 | passos med=300 max=300 | 227 s
+   AVAL (sem assistencia): 1.18 s em pe | v=-0.06 m/s | RMSE=19.4 graus | corr=0.23 | simetria=52% | jerk=17.05
+[00:28:39] bloco 4/60 | assist=1.00 | R med=97.2 max=113.7 | passos med=300 max=300 | 343 s
+[00:33:56] bloco 5/60 | assist=0.96 | R med=96.7 max=121.8 | passos med=276 max=300 | 317 s
+[00:39:13] bloco 6/60 | assist=0.92 | R med=93.3 max=113.5 | passos med=280 max=300 | 317 s
+   AVAL (sem assistencia): 0.71 s em pe | v=0.66 m/s | RMSE=16.1 graus | corr=0.43 | simetria=116% | jerk=26.18
+[00:44:05] bloco 7/60 | assist=0.88 | R med=90.0 max=153.0 | passos med=244 max=300 | 283 s
+[00:48:04] bloco 8/60 | assist=0.85 | R med=80.1 max=175.0 | passos med=208 max=300 | 239 s
+[00:52:40] bloco 9/60 | assist=0.81 | R med=83.8 max=128.4 | passos med=235 max=300 | 275 s
+   AVAL (sem assistencia): 1.09 s em pe | v=0.41 m/s | RMSE=23.4 graus | corr=0.39 | simetria=58% | jerk=14.04
+[00:56:40] bloco 10/60 | assist=0.77 | R med=81.2 max=151.9 | passos med=185 max=300 | 229 s
+[00:59:56] bloco 11/60 | assist=0.73 | R med=67.7 max=101.0 | passos med=162 max=300 | 196 s
+[01:02:59] bloco 12/60 | assist=0.69 | R med=67.1 max=160.8 | passos med=147 max=300 | 184 s
+   AVAL (sem assistencia): 1.09 s em pe | v=0.48 m/s | RMSE=20.0 graus | corr=0.33 | simetria=55% | jerk=29.82
+[01:06:33] bloco 13/60 | assist=0.65 | R med=77.1 max=134.3 | passos med=172 max=300 | 205 s
+[01:09:09] bloco 14/60 | assist=0.62 | R med=60.5 max=120.2 | passos med=133 max=268 | 155 s
+{Error using rl.internal.train.EpisodeRunner/asyncpoll (line 146)
+The environment simulation completed with an error.
+
+Error in rl.internal.train.datagen.RunEpisodeDataGenerator/pollAsync_ (line 97)
+            [outs,ids] = asyncpoll(runner);
+                         ^^^^^^^^^^^^^^^^^
+Error in rl.internal.train.datagen.AsyncDataGenerator/pollAsync (line 51)
+            [tasks_running,num_samples_generated] = pollAsync_(this);
+                                                    ^^^^^^^^^^^^^^^^
+Error in rl.internal.train.OffPolicyTrainer/run_internal_ (line 253)
+                        [~,num_samples_generated] = pollAsync(dg);
+                                                    ^^^^^^^^^^^^^
+Error in rl.internal.train.OffPolicyTrainer/run_ (line 53)
+            result = run_internal_(this);
+                     ^^^^^^^^^^^^^^^^^^^
+Error in rl.internal.train.Trainer/run (line 8)
+            result = run_(this);
+                     ^^^^^^^^^^
+Error in rl.internal.trainmgr.OnlineTrainingManager/run_ (line 155)
+            trainResult = run(trainer);
+                          ^^^^^^^^^^^^
+Error in rl.internal.trainmgr.TrainingManager/run (line 4)
+            result = run_(this);
+                     ^^^^^^^^^^
+Error in rl.agent.AbstractAgent/internalTrain (line 203)
+            trainingResult = run(tm);
+                             ^^^^^^^
+Error in rl.agent.AbstractAgent/train (line 67)
+    trainingResult = internalTrain(this,env,trainOptsOrResult, ...
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Error in train_sac (line 86)
+    stats = train(agent, env, topts);
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+Caused by:
+    Error using ProstheticGaitEnv/reset (line 147)
+    Java exception occurred:
+    java.lang.RuntimeException: Model::equilibrateMuscles() Unable to compute equilibrium for this muscle.
+    Please verify that the initial activation is valid and that the length of the musculotendon actuator doesn't produce a pennation angle
+    of 90 degrees or a negative fiber length.
+
+      Solution error 13.4957 exceeds tolerance of 7.925e-05
+      Newton iterations reached limit of 20
+      Activation is 0.05
+      Fiber length is nan
+
+    	In Object 'soleus_l' of type Thelen2003Muscle.
+    	Thrown at Thelen2003Muscle.cpp:376 in computeInitialFiberEquilibrium().
+    	at org.opensim.modeling.opensimSimulationJNI.Model_equilibrateMuscles(Native Method)
+    	at org.opensim.modeling.Model.equilibrateMuscles(Model.java:1098)
+} 
+ERROR: MATLAB error Exit Status: 0x00000001
+Retomando do bloco 15
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 4 workers.
+[01:16:05] bloco 15/150 | assist=0.65 | R med=62.7 max=123.5 | passos med=146 max=300 | 187 s
+   AVAL (sem assistencia): 1.43 s em pe | v=-0.10 m/s | RMSE=15.1 graus | corr=0.36 | simetria=50% | jerk=24.09
+[01:18:53] bloco 16/150 | assist=0.68 | R med=56.9 max=103.6 | passos med=132 max=242 | 154 s
+[01:21:47] bloco 17/150 | assist=0.71 | R med=57.0 max=80.9 | passos med=137 max=231 | 173 s
