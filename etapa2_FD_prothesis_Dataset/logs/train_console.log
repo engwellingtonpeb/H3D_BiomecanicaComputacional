@@ -135,3 +135,904 @@ Connected to parallel pool with 4 workers.
 [warning] Couldn't find file 'hat_ribs.vtp'.
    AVAL beta=0.90: 1.86 s | v=0.85 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)
 [16:03:35] bloco 15/120 | beta=0.95 | R med=457.3 max=585.8 | passos med=514 max=600 | 719 s
+[16:15:40] bloco 16/120 | beta=0.95 | R med=421.2 max=560.8 | passos med=517 max=600 | 724 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.95: 10.00 s | v=0.56 m/s | score(z)=5.90 | dentro 1DP=28% | apoio D/E=69/92% (saudavel 65%)
+[16:28:27] bloco 17/120 | beta=0.85 | R med=446.0 max=546.7 | passos med=540 max=600 | 713 s
+[16:39:20] bloco 18/120 | beta=0.85 | R med=375.1 max=552.8 | passos med=486 max=600 | 653 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.85: 1.84 s | v=0.85 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)
+[16:51:43] bloco 19/120 | beta=0.90 | R med=533.4 max=574.0 | passos med=593 max=600 | 733 s
+[17:03:22] bloco 20/120 | beta=0.90 | R med=507.7 max=582.2 | passos med=561 max=600 | 699 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.90: 10.00 s | v=0.84 m/s | score(z)=5.99 | dentro 1DP=21% | apoio D/E=71/96% (saudavel 65%)
+[17:16:05] bloco 21/120 | beta=0.80 | R med=460.5 max=542.9 | passos med=553 max=600 | 708 s
+[17:27:21] bloco 22/120 | beta=0.80 | R med=404.0 max=535.5 | passos med=504 max=600 | 676 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.80: 9.79 s | v=0.40 m/s | score(z)=7.52 | dentro 1DP=17% | apoio D/E=66/NaN% (saudavel 65%)
+[17:37:20] bloco 23/120 | beta=0.80 | R med=367.5 max=559.4 | passos med=459 max=600 | 554 s
+[17:47:50] bloco 24/120 | beta=0.80 | R med=388.8 max=573.3 | passos med=491 max=600 | 630 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.80: 10.00 s | v=0.54 m/s | score(z)=5.83 | dentro 1DP=19% | apoio D/E=69/96% (saudavel 65%)
+[17:56:28] bloco 25/120 | beta=0.70 | R med=277.2 max=512.2 | passos med=366 max=600 | 470 s
+[18:09:29] bloco 26/120 | beta=0.70 | R med=428.8 max=538.2 | passos med=525 max=600 | 781 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.70: 10.00 s | v=0.30 m/s | score(z)=7.66 | dentro 1DP=15% | apoio D/E=60/NaN% (saudavel 65%)
+[18:19:00] bloco 27/120 | beta=0.60 | R med=309.6 max=515.5 | passos med=418 max=600 | 527 s
+[18:32:49] bloco 28/120 | beta=0.60 | R med=376.7 max=518.7 | passos med=482 max=600 | 829 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.60: 10.00 s | v=0.45 m/s | score(z)=5.93 | dentro 1DP=23% | apoio D/E=77/95% (saudavel 65%)
+[18:41:24] bloco 29/120 | beta=0.50 | R med=200.7 max=475.9 | passos med=297 max=600 | 468 s
+[18:49:41] bloco 30/120 | beta=0.50 | R med=173.8 max=490.3 | passos med=268 max=600 | 497 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.50: 2.17 s | v=-0.10 m/s | score(z)=8.08 | dentro 1DP=16% | apoio D/E=32/NaN% (saudavel 65%)
+[18:59:18] bloco 31/120 | beta=0.55 | R med=323.4 max=514.1 | passos med=424 max=600 | 564 s
+[19:10:51] bloco 32/120 | beta=0.55 | R med=387.5 max=535.3 | passos med=496 max=600 | 693 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.55: 4.27 s | v=0.09 m/s | score(z)=7.77 | dentro 1DP=15% | apoio D/E=61/NaN% (saudavel 65%)
+[19:19:16] bloco 33/120 | beta=0.60 | R med=232.9 max=462.9 | passos med=352 max=600 | 486 s
+[19:32:07] bloco 34/120 | beta=0.60 | R med=410.6 max=547.5 | passos med=542 max=600 | 771 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.60: 4.96 s | v=-0.01 m/s | score(z)=7.84 | dentro 1DP=15% | apoio D/E=55/NaN% (saudavel 65%)
+[19:46:20] bloco 35/120 | beta=0.65 | R med=390.0 max=545.0 | passos med=475 max=600 | 831 s
+[19:57:40] bloco 36/120 | beta=0.65 | R med=346.2 max=559.1 | passos med=438 max=600 | 680 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.65: 2.77 s | v=-0.09 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)
+[20:05:56] bloco 37/120 | beta=0.70 | R med=218.4 max=473.3 | passos med=321 max=600 | 483 s
+[20:15:02] bloco 38/120 | beta=0.70 | R med=249.0 max=480.2 | passos med=356 max=600 | 545 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.70: 4.96 s | v=0.73 m/s | score(z)=6.44 | dentro 1DP=21% | apoio D/E=92/83% (saudavel 65%)
+[20:29:01] bloco 39/120 | beta=0.75 | R med=453.8 max=533.8 | passos med=570 max=600 | 811 s
+[20:42:16] bloco 40/120 | beta=0.75 | R med=536.2 max=592.7 | passos med=590 max=600 | 794 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.75: 10.00 s | v=0.88 m/s | score(z)=5.79 | dentro 1DP=30% | apoio D/E=60/99% (saudavel 65%)
+[20:54:45] bloco 41/120 | beta=0.65 | R med=416.8 max=558.4 | passos med=492 max=600 | 695 s
+[21:08:34] bloco 42/120 | beta=0.65 | R med=466.5 max=561.3 | passos med=564 max=600 | 829 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.65: 10.00 s | v=0.66 m/s | score(z)=6.08 | dentro 1DP=18% | apoio D/E=76/93% (saudavel 65%)
+[21:20:43] bloco 43/120 | beta=0.55 | R med=378.5 max=557.6 | passos med=471 max=600 | 677 s
+[21:33:42] bloco 44/120 | beta=0.55 | R med=442.0 max=529.6 | passos med=553 max=600 | 779 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.55: 2.94 s | v=0.31 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)
+[21:47:51] bloco 45/120 | beta=0.60 | R med=497.4 max=559.2 | passos med=592 max=600 | 834 s
+[22:00:46] bloco 46/120 | beta=0.60 | R med=451.7 max=565.4 | passos med=515 max=600 | 775 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.60: 1.87 s | v=0.78 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)
+[22:13:32] bloco 47/120 | beta=0.65 | R med=472.4 max=570.6 | passos med=522 max=600 | 754 s
+[22:24:47] bloco 48/120 | beta=0.65 | R med=394.6 max=575.3 | passos med=459 max=600 | 676 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.65: 1.79 s | v=0.67 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)
+[22:37:37] bloco 49/120 | beta=0.70 | R med=436.2 max=573.0 | passos med=523 max=600 | 760 s
+[22:50:56] bloco 50/120 | beta=0.70 | R med=469.0 max=570.7 | passos med=547 max=600 | 798 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.70: 10.00 s | v=0.40 m/s | score(z)=7.46 | dentro 1DP=22% | apoio D/E=66/NaN% (saudavel 65%)
+[23:04:26] bloco 51/120 | beta=0.60 | R med=432.5 max=558.0 | passos med=521 max=600 | 763 s
+[23:17:00] bloco 52/120 | beta=0.60 | R med=410.7 max=547.4 | passos med=522 max=600 | 754 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.60: 10.00 s | v=0.70 m/s | score(z)=5.97 | dentro 1DP=26% | apoio D/E=60/98% (saudavel 65%)
+[23:31:41] bloco 53/120 | beta=0.50 | R med=496.2 max=573.1 | passos med=569 max=600 | 829 s
+[23:45:27] bloco 54/120 | beta=0.50 | R med=490.5 max=550.2 | passos med=572 max=600 | 826 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.50: 10.00 s | v=0.55 m/s | score(z)=6.12 | dentro 1DP=14% | apoio D/E=83/93% (saudavel 65%)
+[23:54:46] bloco 55/120 | beta=0.40 | R med=254.7 max=521.2 | passos med=341 max=600 | 514 s
+[00:01:44] bloco 56/120 | beta=0.40 | R med=229.4 max=513.8 | passos med=310 max=600 | 417 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.40: 10.00 s | v=0.63 m/s | score(z)=5.97 | dentro 1DP=25% | apoio D/E=55/96% (saudavel 65%)
+[00:14:00] bloco 57/120 | beta=0.30 | R med=316.2 max=485.2 | passos med=448 max=600 | 688 s
+[00:23:47] bloco 58/120 | beta=0.30 | R med=272.3 max=488.3 | passos med=382 max=600 | 587 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.30: 2.63 s | v=-0.08 m/s | score(z)=8.25 | dentro 1DP=15% | apoio D/E=23/NaN% (saudavel 65%)
+[00:33:56] bloco 59/120 | beta=0.35 | R med=312.7 max=515.0 | passos med=411 max=600 | 598 s
+[00:46:15] bloco 60/120 | beta=0.35 | R med=374.5 max=518.9 | passos med=482 max=600 | 738 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.35: 7.98 s | v=0.67 m/s | score(z)=5.85 | dentro 1DP=18% | apoio D/E=75/93% (saudavel 65%)
+[00:53:47] bloco 61/120 | beta=0.35 | R med=203.2 max=505.4 | passos med=268 max=600 | 415 s
+[01:00:28] bloco 62/120 | beta=0.35 | R med=192.0 max=453.6 | passos med=267 max=600 | 401 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.35: 4.97 s | v=0.18 m/s | score(z)=6.28 | dentro 1DP=20% | apoio D/E=95/98% (saudavel 65%)
+[01:13:05] bloco 63/120 | beta=0.40 | R med=371.5 max=524.7 | passos med=494 max=600 | 737 s
+[01:22:01] bloco 64/120 | beta=0.40 | R med=263.7 max=499.6 | passos med=360 max=600 | 535 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.40: 5.56 s | v=0.61 m/s | score(z)=7.70 | dentro 1DP=14% | apoio D/E=59/NaN% (saudavel 65%)
+[01:33:12] bloco 65/120 | beta=0.40 | R med=357.7 max=546.3 | passos med=437 max=600 | 643 s
+[01:45:32] bloco 66/120 | beta=0.40 | R med=444.8 max=556.3 | passos med=529 max=600 | 739 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.40: 10.00 s | v=0.47 m/s | score(z)=7.55 | dentro 1DP=18% | apoio D/E=61/NaN% (saudavel 65%)
+[01:57:56] bloco 67/120 | beta=0.30 | R med=399.0 max=533.8 | passos med=494 max=600 | 703 s
+[02:10:37] bloco 68/120 | beta=0.30 | R med=398.6 max=514.4 | passos med=520 max=600 | 760 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.30: 1.88 s | v=0.67 m/s | score(z)=7.84 | dentro 1DP=13% | apoio D/E=52/NaN% (saudavel 65%)
+[02:23:18] bloco 69/120 | beta=0.35 | R med=385.0 max=506.7 | passos med=520 max=600 | 752 s
+[02:36:25] bloco 70/120 | beta=0.35 | R med=442.1 max=507.2 | passos med=564 max=600 | 788 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.35: 10.00 s | v=0.64 m/s | score(z)=5.97 | dentro 1DP=25% | apoio D/E=87/96% (saudavel 65%)
+[02:49:01] bloco 71/120 | beta=0.25 | R med=357.9 max=526.6 | passos med=463 max=600 | 708 s
+[03:01:44] bloco 72/120 | beta=0.25 | R med=428.9 max=544.4 | passos med=527 max=600 | 763 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.25: 10.00 s | v=0.35 m/s | score(z)=7.52 | dentro 1DP=17% | apoio D/E=67/NaN% (saudavel 65%)
+[03:14:41] bloco 73/120 | beta=0.15 | R med=388.3 max=515.7 | passos med=500 max=600 | 738 s
+[03:24:47] bloco 74/120 | beta=0.15 | R med=302.0 max=522.7 | passos med=399 max=600 | 606 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.15: 10.00 s | v=0.80 m/s | score(z)=5.99 | dentro 1DP=26% | apoio D/E=62/96% (saudavel 65%)
+[03:32:50] bloco 75/120 | beta=0.05 | R med=191.6 max=473.6 | passos med=276 max=600 | 433 s
+[03:42:18] bloco 76/120 | beta=0.05 | R med=288.6 max=508.1 | passos med=390 max=600 | 568 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.05: 1.54 s | v=0.80 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)
+[03:55:24] bloco 77/120 | beta=0.10 | R med=409.8 max=528.1 | passos med=511 max=600 | 778 s
+[04:08:46] bloco 78/120 | beta=0.10 | R med=408.4 max=512.5 | passos med=517 max=600 | 802 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.10: 1.83 s | v=0.77 m/s | score(z)=8.21 | dentro 1DP=5% | apoio D/E=93/NaN% (saudavel 65%)
+[04:15:04] bloco 79/120 | beta=0.15 | R med=229.3 max=509.0 | passos med=298 max=600 | 369 s
+[04:29:06] bloco 80/120 | beta=0.15 | R med=509.4 max=540.8 | passos med=600 max=600 | 842 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.15: 10.00 s | v=0.62 m/s | score(z)=6.34 | dentro 1DP=18% | apoio D/E=86/96% (saudavel 65%)
+[04:41:29] bloco 81/120 | beta=0.05 | R med=382.9 max=547.9 | passos med=479 max=600 | 696 s
+[04:52:26] bloco 82/120 | beta=0.05 | R med=351.1 max=518.7 | passos med=459 max=600 | 657 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.05: 2.24 s | v=-0.01 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)
+[05:05:22] bloco 83/120 | beta=0.10 | R med=387.9 max=513.2 | passos med=509 max=600 | 767 s
+[05:18:04] bloco 84/120 | beta=0.10 | R med=404.7 max=547.4 | passos med=519 max=600 | 762 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.10: 10.00 s | v=0.66 m/s | score(z)=5.90 | dentro 1DP=26% | apoio D/E=72/97% (saudavel 65%)
+[05:25:19] bloco 85/120 | beta=0.00 | R med=168.7 max=512.0 | passos med=226 max=600 | 387 s
+[05:36:00] bloco 86/120 | beta=0.00 | R med=338.0 max=573.8 | passos med=407 max=600 | 641 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.00: 10.00 s | v=0.78 m/s | score(z)=5.52 | dentro 1DP=31% | apoio D/E=63/99% (saudavel 65%)
+   >> novo melhor agente com controle direto (score 5.52)
+[05:51:29] bloco 87/120 | beta=0.00 | R med=489.3 max=556.2 | passos med=568 max=600 | 884 s
+[06:04:07] bloco 88/120 | beta=0.00 | R med=395.5 max=551.7 | passos med=484 max=600 | 758 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.00: 1.82 s | v=0.66 m/s | score(z)=8.05 | dentro 1DP=14% | apoio D/E=28/NaN% (saudavel 65%)
+[06:15:46] bloco 89/120 | beta=0.05 | R med=366.6 max=578.5 | passos med=445 max=600 | 691 s
+[06:30:38] bloco 90/120 | beta=0.05 | R med=427.2 max=548.1 | passos med=530 max=600 | 892 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.05: 3.80 s | v=0.63 m/s | score(z)=6.37 | dentro 1DP=20% | apoio D/E=88/98% (saudavel 65%)
+[06:42:54] bloco 91/120 | beta=0.10 | R med=346.8 max=530.7 | passos med=461 max=600 | 719 s
+[06:54:15] bloco 92/120 | beta=0.10 | R med=322.6 max=533.0 | passos med=446 max=600 | 681 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.10: 1.76 s | v=-0.16 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)
+[07:07:06] bloco 93/120 | beta=0.15 | R med=394.4 max=571.6 | passos med=487 max=600 | 765 s
+[07:21:33] bloco 94/120 | beta=0.15 | R med=434.0 max=550.5 | passos med=541 max=600 | 867 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.15: 10.00 s | v=0.98 m/s | score(z)=5.72 | dentro 1DP=27% | apoio D/E=59/96% (saudavel 65%)
+[07:35:33] bloco 95/120 | beta=0.05 | R med=404.4 max=546.3 | passos med=497 max=600 | 788 s
+[07:49:53] bloco 96/120 | beta=0.05 | R med=460.0 max=554.0 | passos med=540 max=600 | 860 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.05: 10.00 s | v=1.01 m/s | score(z)=5.13 | dentro 1DP=37% | apoio D/E=63/75% (saudavel 65%)
+[08:05:31] bloco 97/120 | beta=0.00 | R med=462.6 max=567.7 | passos med=547 max=600 | 889 s
+[08:14:47] bloco 98/120 | beta=0.00 | R med=252.9 max=556.5 | passos med=325 max=600 | 556 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.00: 7.44 s | v=0.66 m/s | score(z)=6.37 | dentro 1DP=22% | apoio D/E=79/81% (saudavel 65%)
+[08:29:19] bloco 99/120 | beta=0.00 | R med=394.5 max=512.0 | passos med=516 max=600 | 836 s
+[08:40:57] bloco 100/120 | beta=0.00 | R med=288.9 max=488.3 | passos med=418 max=600 | 698 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.00: 6.41 s | v=0.33 m/s | score(z)=7.52 | dentro 1DP=18% | apoio D/E=66/NaN% (saudavel 65%)
+[08:54:51] bloco 101/120 | beta=0.00 | R med=372.5 max=523.1 | passos med=493 max=600 | 806 s
+[09:08:30] bloco 102/120 | beta=0.00 | R med=445.1 max=544.9 | passos med=540 max=600 | 819 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.00: 10.00 s | v=0.53 m/s | score(z)=6.11 | dentro 1DP=23% | apoio D/E=70/97% (saudavel 65%)
+[09:22:48] bloco 103/120 | beta=0.00 | R med=406.9 max=545.2 | passos med=510 max=600 | 814 s
+[09:38:45] bloco 104/120 | beta=0.00 | R med=452.9 max=548.2 | passos med=566 max=600 | 956 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.00: 10.00 s | v=0.55 m/s | score(z)=6.27 | dentro 1DP=19% | apoio D/E=79/94% (saudavel 65%)
+[09:49:36] bloco 105/120 | beta=0.00 | R med=268.6 max=558.9 | passos med=358 max=600 | 605 s
+[09:57:17] bloco 106/120 | beta=0.00 | R med=199.6 max=507.5 | passos med=282 max=600 | 461 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.00: 10.00 s | v=0.68 m/s | score(z)=5.82 | dentro 1DP=21% | apoio D/E=60/91% (saudavel 65%)
+[10:08:54] bloco 107/120 | beta=0.00 | R med=287.6 max=503.7 | passos med=380 max=600 | 648 s
+[10:19:58] bloco 108/120 | beta=0.00 | R med=279.5 max=495.3 | passos med=376 max=600 | 664 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.00: 3.15 s | v=-0.04 m/s | score(z)=8.02 | dentro 1DP=16% | apoio D/E=50/NaN% (saudavel 65%)
+[10:35:04] bloco 109/120 | beta=0.05 | R med=435.6 max=555.3 | passos med=538 max=600 | 891 s
+[10:48:58] bloco 110/120 | beta=0.05 | R med=427.9 max=545.0 | passos med=518 max=600 | 833 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.05: 1.71 s | v=0.76 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)
+[11:04:17] bloco 111/120 | beta=0.10 | R med=449.0 max=536.7 | passos med=570 max=600 | 908 s
+[11:17:38] bloco 112/120 | beta=0.10 | R med=366.5 max=513.4 | passos med=485 max=600 | 801 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.10: 3.57 s | v=0.32 m/s | score(z)=5.39 | dentro 1DP=32% | apoio D/E=69/87% (saudavel 65%)
+[11:32:00] bloco 113/120 | beta=0.15 | R med=397.9 max=535.6 | passos med=522 max=600 | 846 s
+[11:47:36] bloco 114/120 | beta=0.15 | R med=467.6 max=524.9 | passos med=580 max=600 | 936 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.15: 10.00 s | v=0.78 m/s | score(z)=6.49 | dentro 1DP=23% | apoio D/E=70/96% (saudavel 65%)
+[11:58:05] bloco 115/120 | beta=0.05 | R med=234.0 max=490.9 | passos med=329 max=600 | 574 s
+[12:04:34] bloco 116/120 | beta=0.05 | R med=161.6 max=500.6 | passos med=227 max=600 | 389 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.05: 1.64 s | v=0.92 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)
+[12:17:26] bloco 117/120 | beta=0.10 | R med=340.6 max=547.9 | passos med=454 max=600 | 762 s
+[12:28:57] bloco 118/120 | beta=0.10 | R med=318.0 max=533.7 | passos med=412 max=600 | 691 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.10: 1.76 s | v=0.72 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)
+[12:43:15] bloco 119/120 | beta=0.15 | R med=416.2 max=559.0 | passos med=517 max=600 | 848 s
+[12:57:08] bloco 120/120 | beta=0.15 | R med=433.4 max=572.2 | passos med=540 max=600 | 833 s
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+[warning] Couldn't find file 'sacrum.vtp'.
+[warning] Couldn't find file 'pelvis.vtp'.
+[warning] Couldn't find file 'l_pelvis.vtp'.
+[warning] Couldn't find file 'femur_l.vtp'.
+[warning] Couldn't find file 'tibia_l.vtp'.
+[warning] Couldn't find file 'l_fibula.vtp'.
+[warning] Couldn't find file 'l_talus.vtp'.
+[warning] Couldn't find file 'l_foot.vtp'.
+[warning] Couldn't find file 'l_bofoot.vtp'.
+[warning] Couldn't find file 'hat_spine.vtp'.
+[warning] Couldn't find file 'hat_jaw.vtp'.
+[warning] Couldn't find file 'hat_skull.vtp'.
+[warning] Couldn't find file 'hat_ribs.vtp'.
+   AVAL beta=0.15: 3.52 s | v=-0.01 m/s | score(z)=10.00 | dentro 1DP=0% | apoio D/E=NaN/NaN% (saudavel 65%)

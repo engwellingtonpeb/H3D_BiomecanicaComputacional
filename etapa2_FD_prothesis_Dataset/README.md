@@ -20,6 +20,25 @@ Nesta etapa um agente SAC comanda as excitações dos **15 músculos** do modelo
 
 O β começa em 1 e cai 0,1 sempre que a avaliação determinística anda 10 s. Se a avaliação cair antes de 5 s, ele sobe 0,05. Com **β = 0 não há mais controlador-base**: o agente define sozinho a excitação de cada músculo.
 
+## Resultados (120 blocos de 40 episódios)
+
+O β chegou a 0 no bloco 86. Depois disso, o currículo oscilou entre 0 e 0,15 até o fim, e o treino terminou com β = 0,15. O `finalize_ds.m` reavaliou todos os agentes que tinham andado 10 s com β = 0. Cada um rodou 20 s, partindo de 0% e de 50% do ciclo. Todos andaram os 20 s, e o melhor foi o do **bloco 86** (`agents/best_agent_final.mat`):
+
+| Agente (β = 0) | v (m/s) | Score z | Ciclo dentro de ± 1 DP | Apoio D/E |
+|---|---|---|---|---|
+| **bloco 86** | 0,77 | **5,51** | **31 %** | 63 / 99 % |
+| bloco 106 | 0,71 | 5,65 | 25 % | 63 / 92 % |
+| bloco 104 | 0,56 | 6,25 | 20 % | 75 / 94 % |
+| bloco 102 | 0,55 | 6,33 | 21 % | 70 / 99 % |
+
+O apoio de referência no dataset é 65 % do ciclo. A tabela completa está em `results/agent_selection.csv`, e o vídeo em [`results/final_p50_opensim.mp4`](results/final_p50_opensim.mp4).
+
+**Limitação principal:** a perna intacta (E) fica no chão por 92–99 % do ciclo, contra 65 % na marcha saudável. Já a prótese tem apoio próximo do fisiológico.
+
+**Próximos passos:**
+- recompensa explícita de tempo de apoio e de balanço por pé;
+- currículo de β mais lento: passos de 0,05, com 2 avaliações boas seguidas antes de baixar.
+
 ## Pastas
 
 | Pasta | Conteúdo |

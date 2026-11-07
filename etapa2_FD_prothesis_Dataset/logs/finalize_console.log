@@ -1,0 +1,24 @@
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 4 workers.
+              agent              sum_ok    mean_score    mean_inBand    mean_v     mean_surv
+    _________________________    ______    __________    ___________    _______    _________
+
+    "agent_chunk086_b000.mat"      2         5.5083        30.594       0.76947       20    
+    "best_agent_direct.mat"        2         5.5083        30.594       0.76947       20    
+    "agent_chunk106_b000.mat"      2         5.6496         25.05       0.71262       20    
+    "agent_chunk104_b000.mat"      2         6.2541        19.703       0.56477       20    
+    "agent_chunk102_b000.mat"      2         6.3321         20.99       0.55235       20    
+
+melhor: agent_chunk086_b000.mat | fase 0.50 | 20.0 s | v=0.77 | score=5.49 | dentro 1DP=30%
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\..\OpenSIM\OS4_gait14dof15musc_2Act_RTFP_DynAct.osim
+quadro 60/600
+quadro 120/600
+quadro 180/600
+quadro 240/600
+quadro 300/600
+quadro 360/600
+quadro 420/600
+quadro 480/600
+quadro 540/600
+quadro 600/600
+video: C:\Users\engwe\Desktop\RL_OSim\etapa2_FD_prothesis_Dataset\src\..\results\final_p50_opensim.mp4 (600 quadros)
