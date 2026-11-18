@@ -4,6 +4,8 @@ data/wbds/mkr/
 
 # checkpoint reescrito a cada bloco pelo treino em andamento
 etapa2_FD_prothesis_Dataset/agents/sac_checkpoint.mat
+etapa3_FD_prothesis_4barras/agents/sac_checkpoint.mat
+etapa4_FD_prothesis_4barras_SemDataset/agents/sac_checkpoint.mat
 
 # temporarios
 *.asv
