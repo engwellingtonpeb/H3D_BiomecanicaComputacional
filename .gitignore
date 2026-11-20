@@ -15,3 +15,7 @@ opensim.log
 *.out
 *.synctex.gz
 etapa1_FD_prothesis_Literature/docs/relatorio_tecnico.log
+
+# avaliacoes dos candidatos na selecao final (reproduziveis com finalize_*; resumo em results/agent_selection_raw.csv)
+etapa3_FD_prothesis_4barras/results/cand_*
+etapa4_FD_prothesis_4barras_SemDataset/results/cand_*

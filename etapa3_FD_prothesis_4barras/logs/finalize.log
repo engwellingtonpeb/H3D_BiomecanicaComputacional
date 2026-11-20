@@ -1,0 +1,10 @@
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 4 workers.
+              agent               sum_ok    mean_score    mean_inBand    mean_v     mean_surv
+    __________________________    ______    __________    ___________    _______    _________
+
+    "agent_chunk116_b000.mat"       2         6.1657         30.05       0.80122       20    
+    "agent_final_chunk116.mat"      2         6.1657         30.05       0.80122       20    
+    "best_agent_direct.mat"         2         6.1657         30.05       0.80122       20    
+
+melhor: agent_chunk116_b000.mat | fase 0.50 | 20.0 s | v=0.82 | score=6.16 | dentro 1DP=30%

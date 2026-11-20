@@ -6,9 +6,16 @@
 </p>
 <p align="center">
   <img src="media/marcha_opensim_etapa3_4barras.gif" width="400" alt="Etapa 3: prótese com joelho policêntrico de 4 barras">
+  <img src="media/marcha_opensim_etapa4_semdataset.gif" width="400" alt="Etapa 4: joelho de 4 barras sem dataset">
 </p>
 
-**Etapa 3 (abaixo): joelho policêntrico de 4 barras.** O modelo é `OpenSIM/50_Direita_Final.osim`, com o mesmo método da etapa 2. O vídeo mostra o agente do bloco 66 com β = 0,8: o controlador-base ainda contribui com 80% da excitação. Ele anda 0,44 m/s por 10 s. O vídeo completo está em [`chunk066_b080_opensim.mp4`](etapa3_FD_prothesis_4barras/results/chunk066_b080_opensim.mp4). O treino chegou a β = 0 no bloco 116 de 120, mas a seleção final e o vídeo com controle muscular direto ainda não foram feitos.
+**Etapa 4 (abaixo, à direita): joelho de 4 barras sem dataset.** Não há controlador-base nem referência de marcha; a recompensa usa só plausibilidade fisiológica. O agente escolhido (bloco 74) anda 20 s nos 5 estados iniciais testados, a 0,88 m/s no vídeo, com 40 passos alternados. O vídeo completo está em [`final_i0250_opensim.mp4`](etapa4_FD_prothesis_4barras_SemDataset/results/final_i0250_opensim.mp4).
+- É a primeira etapa com marcha realmente alternada: nas etapas 2 e 3 a perna intacta fica ~99% do ciclo em apoio.
+- A assimetria temporal caiu (SI do balanço 40%, contra ~190% nas etapas 2 e 3), mas o comprimento do passo continua assimétrico (SI 153%).
+- Limitações: o joelho protético começa a flexionar com carga, por volta de 35% do ciclo, sob momento flexor da GRF em torno do CIR. O pico de GRF vertical chega a 1,59 PC.
+- A comparação de CIR, fase, GRF e assimetria entre as etapas 2, 3 e 4 está em [`figs/`](etapa4_FD_prothesis_4barras_SemDataset/figs) (`cmp_*.png`) e `results/comparacao_*.csv`.
+
+**Etapa 3 (abaixo, à esquerda): joelho policêntrico de 4 barras.** O modelo é `OpenSIM/50_Direita_Final.osim`, com o mesmo método da etapa 2. O vídeo mostra o agente do bloco 66 com β = 0,8: o controlador-base ainda contribui com 80% da excitação. Ele anda 0,44 m/s por 10 s. O vídeo completo está em [`chunk066_b080_opensim.mp4`](etapa3_FD_prothesis_4barras/results/chunk066_b080_opensim.mp4). Na seleção final, o agente do bloco 116, com controle muscular direto (β = 0), anda 20 s a 0,82 m/s (`agents/best_agent_final.mat`, `results/final_p50_traj.mat`).
 
 **Etapa 2 (acima, à direita):** o agente comanda sozinho os 15 músculos, sem controlador-base (β = 0). Ele anda 0,77 m/s por 20 s, e 30% do ciclo fica dentro de ± 1 DP do dataset. O vídeo completo está em [`final_p50_opensim.mp4`](etapa2_FD_prothesis_Dataset/results/final_p50_opensim.mp4).
 
@@ -23,4 +30,4 @@ Todas as etapas usam a mesma interface de dinâmica direta: o OpenSim avalia ẏ
 | `etapa1_FD_prothesis_Literature/` | Referência de marcha da literatura. O agente SAC aplica um resíduo sobre o controlador-base. Contém o relatório técnico (`docs/`), os agentes e os resultados da etapa 1. |
 | `etapa2_FD_prothesis_Dataset/` | Referência e variabilidade (± 1 DP) medidas no dataset. O agente passa a comandar diretamente os 15 músculos, com o controlador-base retirado por currículo. |
 | `etapa3_FD_prothesis_4barras/` | Mesmo método da etapa 2, com o joelho policêntrico de 4 barras. A observação e a recompensa usam a flexão real coxa-perna, obtida da tabela do mecanismo (`src/fourBarMap.m`). A avaliação grava a trajetória do CIR (centro instantâneo de rotação) sincronizada com a fase do ciclo e com a força de reação do solo. `src/compare_cir_asym.m` compara o CIR e a assimetria (SI) com a prótese de pino da etapa 2. |
-| `etapa4_FD_prothesis_4barras_SemDataset/` | Joelho de 4 barras **sem dataset** (treino em andamento). Não há controlador-base, e a referência sai da observação. A recompensa usa só plausibilidade fisiológica: velocidade de caminhada (0,9–1,3 m/s), tronco ereto, passos alternados e simétricos, custo metabólico, amplitudes articulares fisiológicas, pico de GRF ≤ 1,5 PC e nenhuma fase de voo. Os estados iniciais são sorteados de marchas simuladas na etapa 3. |
+| `etapa4_FD_prothesis_4barras_SemDataset/` | Joelho de 4 barras **sem dataset** (150 blocos de treino; seleção em `src/finalize_4s.m`, comparação com as etapas 2 e 3 em `src/compare_etapas.m`). Não há controlador-base, e a referência sai da observação. A recompensa usa só plausibilidade fisiológica: velocidade de caminhada (0,9–1,3 m/s), tronco ereto, passos alternados e simétricos, custo metabólico, amplitudes articulares fisiológicas, pico de GRF ≤ 1,5 PC e nenhuma fase de voo. Os estados iniciais são sorteados de marchas simuladas na etapa 3. |

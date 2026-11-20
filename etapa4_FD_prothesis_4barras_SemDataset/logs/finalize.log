@@ -1,0 +1,29 @@
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 4 workers.
+           agent            sum_ok    mean_r     mean_v     mean_surv    mean_nSteps    mean_effort
+    ____________________    ______    _______    _______    _________    ___________    ___________
+
+    "best_agent.mat"          5        1.0897    0.85918       20             40         0.071176  
+    "agent_chunk132.mat"      5        1.0254    0.98331       20           14.6         0.097996  
+    "agent_chunk146.mat"      5        1.0195     1.0139       20             49          0.10412  
+    "agent_chunk100.mat"      5        1.0123    0.92983       20           21.4         0.084069  
+    "agent_chunk128.mat"      5        1.0036     1.0497       20           42.4          0.10595  
+    "agent_chunk144.mat"      5        0.9981    0.87274       20             28         0.096863  
+    "agent_chunk102.mat"      5       0.98484    0.90829       20           21.6         0.088785  
+    "agent_chunk124.mat"      5       0.97272    0.87337       20             27         0.096528  
+    "agent_chunk138.mat"      5       0.97259     0.8236       20             19         0.098717  
+    "agent_chunk134.mat"      5       0.96614     1.1015       20             46          0.10448  
+
+melhor: best_agent.mat | init 250 | 20.0 s | v=0.88 m/s | r/passo=1.107 | passos=40 | SI tempo/comp.=43/153%
+[info] Loaded model gait14dof15musc2act_RTFP_3D from file C:\Users\engwe\Desktop\RL_OSim\etapa4_FD_prothesis_4barras_SemDataset\src\..\..\OpenSIM\50_Direita_Final.osim
+quadro 60/600
+quadro 120/600
+quadro 180/600
+quadro 240/600
+quadro 300/600
+quadro 360/600
+quadro 420/600
+quadro 480/600
+quadro 540/600
+quadro 600/600
+video: C:\Users\engwe\Desktop\RL_OSim\etapa4_FD_prothesis_4barras_SemDataset\src\..\results\final_i0250_opensim.mp4 (600 quadros)
